@@ -1,0 +1,73 @@
+"%1$s incl tax.",%1$s cu taxe
+%s is available for purchase in increments of %s,%s e disponibil numai pentru achiziții multiplu de %s
+"* Required Fields",* Câmpuri Obligatorii
+"-- Select --",-- Selectați --
+"Add New Option",Adăugați Opțiune Nouă
+"Add Selection",Adăugați Selecție
+"As Low as",Începând de La
+"As low as",Începând de la
+"Bundle Items",Obiecte la Pachet
+"Bundle Product",Produs tip Pachet
+"Bundle Product View Summary",Vizualizare Sumar Produs Pachet
+"Buy %1$s",Cumpărați %1$s
+"Buy %1$s for",Cumpărați %1$s pentru
+"Buy %1$s for %2$s",Cumpărați %1$s pentru %2$s
+"Buy %1$s for %2$s (%3$s incl. tax) each",Cumpărați %1$s pentru %2$s (%3$s cu taxe) fiecare
+"Buy %1$s for %2$s each",Cumpărați %1$s pentru %2$s fiecare
+"Buy %1$s with %2$s discount each",Cumpărați %1$s cu discount de %2$s la fiecare
+"Catalog Product View (Bundle)",Vizualizare Produs Catalog (Pachet)
+"Checkbox",Casetă
+"Choose a selection...",Alegeți o selecție...
+"Click for price",Click pentru preț
+"Close",Închidere
+"Default",Implicit
+"Default Qty",Cant. Implicită
+"Default Title",Titlu Implicit
+"Drop-down","Drop-down"
+"Dynamic",Dinamic
+"Excl. Tax",Fără Taxe
+"Excl. Tax:",Fără Taxe:
+"Fixed",Fix
+"From",De la
+"From:",De la:
+"Gift Message",Mesaj Cadou
+"Incl. Tax",Cu Taxe
+"Incl. Tax:",Cu Taxe:
+"Input Type",Tip Input
+"Is Required",Este Necesar
+"Message:",Mesaj:
+"Multiple Select",Alegere Multiplă
+"N/A",Indisponibil
+"No options of this product are available.",Nicio opţiune a acestui produs nu este disponibilă.
+"None",Niciunul
+Only %s left,Doar %s rămase
+"Percent",Procent
+"Percent Discount",Discount Procente
+"Please Select Products to Add",Selectați Produse pentru Adăugare
+"Please enter a number greater 0 in this field.",Introduceți un număr mai mare decât 0 în acest câmp.
+"Please enter search conditions to view products.",Introduceți condițiile de căutare pentru a vizualiza produse.
+"Please select options for product.",Selectați opțiuni pentru produs.
+"Please specify product option(s).",Specificați opțiunea(ile) produsului.
+"Position",Poziţia
+"Price Range",Interval Preț
+"Price Type",Tip Preţ
+"Price as configured",Preţul cum a fost configurat
+"Qty:",Cant:
+"Radio Buttons",Butoane Radio
+"Required options are not selected.",Opțiunile necesare nu sunt selectate.
+"Selected required options are not available.",Opțiunile necesare selectate nu sunt disponibile.
+"Separately",Separat
+"Ship Bundle Items",Expediere Obiecte tip Pachet
+"Shipment",Expediere
+"Store View Title",Titlu Vitrină
+"There is no defined renderer for ""%s"" option type.",Nu există niciun interpretor pentru tipul de opțiune "%s".
+"This product is also part of bundle(s)",Acest produs face parte şi din pachetul/ele
+"To",Către
+"To:",Către:
+"Together",Împreună
+"Total incl. Tax: %1$s",Total cu Taxe: %1$s
+"Use Default Value",Utilizare Valoare Implicită
+"User Defined Qty",Cant. Definită de Utilizator
+"and",și
+"each",fiecare
+"save",salvare

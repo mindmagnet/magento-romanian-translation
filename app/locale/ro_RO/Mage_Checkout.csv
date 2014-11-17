@@ -1,0 +1,354 @@
+"%s was added to your shopping cart.",%s a fost adăugat la coșul de cumpărături
+"%s was updated in your shopping cart.",%s a fost actualizat în coșul dvs. de cumpărături.
+"* Required Fields",* Câmpuri obligatorii
+"Add New Address",Adăugare Adresă Nouă
+"Add New Condition",Adăugare Condiție Nouă
+"Add coupon code for shopping cart",Adăugare cod cupon pentru coș cumpărături
+"Add gift messages to shopping cart",Adăugare mesaje cadou la coș cumpărături
+"Add product to shopping cart",Adăugare produs la coș cumpărături
+"Add product(s) to shopping cart",Adăugare produs(e) la coș cumpărături
+"Add to Cart",Adăugare în Coș
+"Add to Compare",Adăugare la Comparație
+"Add to Wishlist",Adăugare Listă Dorințe
+"Additional Product Info",Informații Adiționale Produs
+"Address",Adresa
+"Address %s of %s",Adresa %s din %s
+"After Adding a Product Redirect to Shopping Cart",Redirecționare la Coș Cumpărături După Adăugarea unui Produs
+"Allow Guest Checkout",Acceptă Finalizare Comandă Vizitatori
+"Already registered?",Sunteți deja înregistrat?
+"An error occurred in the process of payment",Eroare în timpul procesului de plată
+"An error occurred while deleting this condition.",Eroare la ștergerea acestei condiții.
+"An error occurred while saving this condition.",Eroare la salvarea acestei condiții.
+"Apply Coupon",Aplicare Cupon
+Are you sure you want to leave this page? You will need to go through the checkout steps again.,Sunteți sigur că doriți să părăsiți pagina? Veți fi nevoit să parcurgeți din nou toți pașii finalizării comenzii.
+"Are you sure you would like to remove this item from the shopping cart?",Sunteți sigur că vreți să ștergeți produsul din coș?
+"Back",Înapoi
+"Back to Billing Information",Înapoi la Informații Facturare
+"Back to Select Addresses",Înapoi la Selectare Adrese
+"Back to Shipping Information",Înapoi la Informații Expediere
+"Back to Shopping Cart",Înapoi la Coș Cumpărături
+"Based on your selection, you may be interested in the following items:","Luând în considerare selecția dvs., s-ar putea să fiți interesat și de următoarele articole:"
+"Billing Address",Adresă Facturare
+"Billing Information",Informații Facturare
+"Billing Information - %s",Informații Facturare - %s
+Can not remove the item.,Nu se poate elimina articolul.
+Can not save item.,Nu se poate salva articolul.
+"Cancel Coupon",Anulare Cupon
+"Cannot add item to the shopping cart.",Nu se poate adăuga articol la coș cumpărături.
+"Cannot add the item to shopping cart",Nu se poate adăuga articolul la coșul de cumpărături
+"Cannot add the item to shopping cart.",Nu se poate adăuga articolul la coșul de cumpărături
+"Cannot apply the coupon code.",Nu se poate aplica codul cupon.
+"Cannot configure product.",Nu se poate configura produsul.
+"Cannot open the overview page",Nu se poate deschide pagina de ansamblu
+"Cannot process the item.",Nu se poate procesa articolul.
+"Cannot remove the item.",Nu se poate elimina articolul.
+"Cannot update shopping cart.",Nu se poate actualiza coșul de cumpărături.
+"Cannot update the item.",Nu se poate actualiza articolul.
+"Card Verification Number Visual Reference",Referință Vizuală Număr Verificare Card
+"Cart Product API",API Produs Coș
+"Cart Subtotal:",Subtotal:
+"Change",Schimbare
+"Change Billing Address",Schimbă Adresă Facturare
+"Checkbox Text",Text Casetă
+"Checkout",Finalizare Comandă
+"Checkout Conditions",Condiții Finalizare Comandă
+Checkout Forms Extra,Extra Formulare Finalizare Comandă
+"Checkout Method",Metodă Finalizare Comandă
+"Checkout Options",Opțiuni Finalizare Comandă
+"Checkout Progress Wrapper",Wrapper Progres Finalizare Comandă
+"Checkout Section",Secțiune Finalizare Comandă
+"Checkout Terms and Conditions",Termeni și Condiții Finalizare Comandă
+"Checkout as Guest",Finalizare Comandă ca Vizitator
+"Checkout as a Guest or Register",Finalizare Comandă ca Vizitator sau Înregistrare
+"Checkout with Multiple Addresses",Finalizare Comandă cu Adrese Multiple
+"City",Oraș
+"Clear Shopping Cart",Golire Coș Cumpărături
+"Click <a href=""%s"" onclick=""this.target=\'_blank\'"">here to print</a> a copy of your order confirmation.",Click <a href="%s" onclick="this.target=\'_blank\'">aici pentru a lista</a> o copie a confirmării comenzii dvs.
+"Click <a href=""%s"">here</a> to continue shopping.",Click <a href="%s">aici</a> pentru a continua cumpărăturile.
+"Close",Închidere
+"Company",Companie
+"Condition Name",Nume Condiție
+"Configurable Product Image",Imagine Produs Configurabil
+"Configure Cart Item",Configurare Articol Coș
+"Confirm Password",Confirmare Parolă
+"Content",Conținut
+"Content Height",Înălțime Conținut
+"Content Height (css)",Înălțime Conținut (css)
+"Continue",Continuare
+"Continue Shopping",Continuare Cumpărături
+"Continue to Billing Information",Continuați spre Informații Facturare
+"Continue to Review Your Order",Continuați spre Informații Comandă
+"Continue to Shipping Information",Continuați spre Informații Expediere
+"Country",Țara
+"Coupon code ""%s"" is not valid.",Codul cupon "%s" nu e valid.
+"Coupon code ""%s"" was applied.",Codul cupon "%s" a fost aplicat.
+"Coupon code was canceled.",Codul cupon a fost anulat.
+"Create Billing Address",Creare Adresă Facturare
+"Create Shipping Address",Creare Adresă Expediere
+"Create an order from shopping cart",Creare comandă din coș cumpărături
+"Create shopping cart",Creare coș cumpărături
+"Customer Address is not valid.",Adresă Client nevalidă.
+"Customer Information",Informații Client
+"Customer's information",Informațiile clientului
+"Data saving problem",Probleme la salvarea datelor
+"Default Billing",Facturare Standard
+"Default Shipping",Expediere Standard
+"Delete Condition",Condiție Ștergere
+"Details",Detalii
+"Disabled",Dezactivat
+"Discount Codes",Coduri Discount
+"Display Cart Summary",Afișare Detalii Coș
+"Display Shopping Cart Sidebar",Afișare Bară Margine Coș Cumpărături
+"Display item quantities",Afișare cantități produse
+"Display number of items in cart",Afișare număr produse coș
+"Display number of items in wishlist",Afișare număr articole din lista de dorințe
+"Easy access to your order history and status",Acces facil la istoricul și starea comenzilor dvs.
+"Edit",Modificare
+"Edit Address",Modificare Adresă
+"Edit Billing Address",Modificare Adresă Facturare
+"Edit Condition",Modificare Condiție
+"Edit Items",Modificare Articole
+"Edit Shipping Address",Modificare Adresă Expediere
+"Edit Terms and Conditions",Modificare Termeni și Condiții
+"Edit Your Cart",Modificare Coș
+"Edit item",Modificare articol
+"Edit item parameters",Modificare parametrii articol
+"Email Address",Adresă de E-mail
+Empty Cart,Coș Gol
+Empty Shopping Cart Content Before,Conținut Coș Cumpărături Gol Înainte
+"Enable Onepage Checkout",Activare Finalizare Comandă tip O Pagină
+"Enable Terms and Conditions",Activare Termeni și Condiții
+"Enabled",Activat
+"Enter a New Address",Introduceți o Nouă Adresă
+"Enter your coupon code if you have one.","Introduceți codul cuponului, dacă aveți unul."
+"Enter your destination to get a shipping estimate.",Introduceți destinația pentru a afla costul estimativ al expedierii.
+Estimate,Estimare
+"Estimate Shipping and Tax",Estimare Expediere și Taxe
+"Excl. Tax",Fără Taxe
+"Fast and easy check out",Finalizare comandă rapidă și ușoară
+"Fax","Fax"
+"Forgot an Item?",Ați uitat vreun Articol?
+"Forgot your password?",Ați uitat parola?
+"Get a Quote",Aflați o estimare a costului
+"Get list of available payment methods",Obținere listă metode plată disponibile
+"Get list of available shipping methods",Obținere listă metode expediere disponibile
+"Get list of products in shopping cart",Obținere listă produse din coș cumpărături
+"Get terms and conditions",Obținere termeni și condiții
+"Get total prices for shopping cart",Obținere prețuri totale pentru coș cumpărături
+"Gift Message",Mesaj Cadou
+"Grand Total:",Total General:
+"Grouped Product Image",Imagine Produs Grupat
+"HTML","HTML"
+"ID","ID"
+"Incl. Tax",Cu Taxe
+"Invalid checkout type.",Tip finalizare comandă invalid.
+"Invalid data.",Date invalide.
+"Invalid email address ""%s""",Adresă e-mail "%s" invalidă
+"Invalid method: %s",Metodă invalidă: %s
+"Invalid shipping method.",Metodă de expediere invalidă.
+"Item not found or already ordered",Articol negăsit sau deja comandat
+Item was removed successfully.,Articol eliminat cu succes.
+Item was updated successfully.,Articol actualizat cu succes.
+"Items",Articole
+"Items After",Articole După
+"Items Before",Articole Înainte
+"Load customer quote error",Eroare încărcare estimare client
+"Loading next step...",Se încarcă pasul următor...
+"Login",Logare
+"Login/Registration Before",Logare/Înregistrare Înainte
+"Manage Terms and Conditions",Gestionare Termeni și Condiții
+"Maximum Display Recently Added Item(s)",Afișare Maximă Articol(e) Adăugat(e) Recent
+"Maximum qty allowed for Shipping to multiple addresses is %s",Cantitatea maximă permisă pentru expediere la adrese multiple este %s
+Mini-cart promotion block,Bloc promoțional mini-coș
+"Minimum order amount is %s",Suma minimă de comandă este %s
+"Move",Mutare
+"Move to Wishlist",Mutare la Lista de Dorințe
+"Multishipping Checkout",Finalizare Comandă cu Expediere Multiplă
+"Multishipping Checkout Address (Any) Form",Formular (Orice) Adresă Finalizare Comandă cu Expediere Multiplă
+"Multishipping Checkout Billing Address Creation",Creare Adresă Facturare Finalizare Comandă cu Expediere Multiplă
+"Multishipping Checkout Billing Address Edit Form",Formular Modificare Adresă Facturare Finalizare Comandă cu Expediere Multiplă
+"Multishipping Checkout Billing Address Selection",Selecție Adresă Facturare Finalizare Comandă cu Expediere Multiplă
+"Multishipping Checkout Billing Information Step",Pas Informații Facturare Finalizare Comandă cu Expediere Multiplă
+"Multishipping Checkout Customer Address Edit Form",Formular Modificare Adresă Client Finalizare Comandă cu Expediere Multiplă
+"Multishipping Checkout Overview",Vedere de Ansamblu Finalizare Comandă cu Expediere Multiplă
+"Multishipping Checkout Shipping Address Creation",Creare Adresă Expediere Finalizare Comandă cu Expediere Multiplă
+"Multishipping Checkout Shipping Address Edit Form",Formular Modificare Adresă Expediere Finalizare Comandă cu Expediere Multiplă
+"Multishipping Checkout Shipping Address Selection",Selecție Adresă Expediere Finalizare Comandă cu Expediere Multiplă
+"Multishipping Checkout Shipping Information Step",Pas Informații Expediere Finalizare Comandă cu Expediere Multiplă
+"Multishipping Checkout Success",Succes Finalizare Comandă cu Expediere Multiplă
+"My Cart",Coșul Meu
+"My Cart (%s item)",Coșul Meu (%s articol)
+"My Cart (%s items)",Coșul Meu (%s articole)
+"My Cart Extra Actions",Extra Acțiuni Coșul Meu
+"My Cart Link",Legătură Coșul Meu
+"New Address",Adresă Nouă
+"New Condition",Condiție Nouă
+"New Terms and Conditions",Termeni și Condiții Noi
+"No Payment Methods",Nicio Metodă de Plată
+ok,ok
+"ORDER TOTAL WILL BE DISPLAYED BEFORE YOU SUBMIT THE ORDER",TOTALUL COMENZII VA FI AFIȘAT ÎNAINTE DE A TRIMITE COMANDA
+"One Page Checkout",Finalizare Comandă tip O Pagină
+"One Page Checkout Failure",Eșec Finalizare Comandă tip O Pagină
+"One Page Checkout Overview",Vedere de Ansamblu Finalizare Comandă tip O Pagină
+"One Page Checkout Success",Succes Finalizare Comandă tip O Pagină
+"One item of products do not have identifier or sku",Un articol dintre produse nu are identificator sau cod
+"One item of products is not belong any of quote item",Un articol dintre produse nu aparține niciunui articol estima
+"Order #",Comanda #
+"Order Review",Detalii Comandă
+"Order Success",Comandă Finalizată
+"Order place error.",Eroare plasare comandă
+"Other Items in Your Order",Alte articole din comanda dvs.
+"Overview Items After",Vizualizare Ansamblu Articole După
+"Password",Parolă
+"Payment Failed Email Reciever",Destinatar E-mail Plată Eșuată
+"Payment Failed Email Sender",Expeditor E-mail Plată Eșuată
+"Payment Failed Emails",E-mail-uri Plată Eșuată
+"Payment Failed Template",Șablon Plată Eșuată
+"Payment Information",Informații Plată
+"Payment Method",Metodă Plată
+"Payment Methods After Checkout Button",Metode Plată După Butonul de Finalizare Comandă
+Payment Methods Before,Metode Plată Înainte
+"Payment Methods Before Checkout Button",Metode Plată Înaintea Butonului de Finalizare Comandă
+"Payment method information",Informații metodă plată
+"Payment method is not defined",Metoda de plată nu e definită
+Payment Methods After,Metode Plată După
+"Payment methods in shopping cart",Metode plată în coș cumpărături
+"Payment profile # %s: ""%s"".",Profil de plată # %s: "%s".
+"Place Order",Plasare Comandă
+"Please agree to all Terms and Conditions before placing the order.",Trebuie să fiți de acord cu toți Termenii și Condițiile înainte de a plasa comanda.
+"Please agree to all Terms and Conditions before placing the orders.",Trebuie să fiți de acord cu toți Termenii și Condițiile înainte de a plasa comenzile.
+"Please agree to all the terms and conditions before placing the order.",Trebuie să fiți de acord cu toți termenii și condițiile înainte de a plasa comanda.
+"Please check billing address information.",Verficați informațiile adresei de facturare.
+"Please check shipping address information.",Verificați informațiile adresei de expediere.
+"Please check shipping addresses information.",Verficați informațiile adreselor de expediere.
+"Please choose to register or to checkout as a guest",Alegeți între înregistrare și finalizare comandă ca vizitator
+"Please log in below:",Logați-vă mai jos:
+"Please select region, state or province",Alegeți județul
+"Please select shipping address for applicable items",Selectați adresa de expediere pentru articolele aplicabile
+"Please select shipping methods for all addresses",Selectați metodele de expediere pentru toate adresele
+"Please select valid payment method.",Selectați o metodă de plată validă
+"Please specify payment method.",Specificați metoda de plată.
+"Please specify shipping method.",Specificați metoda de expediere.
+"Please specify shipping methods for all addresses.",Specificați metode de expediere pentru toate adresele.
+"Price",Preț
+"Proceed to Checkout",Continuare cu Finalizarea Comenzii
+"Product",Produs
+"Product Name",Nume Produs
+"Products",Produse
+"Qty",Cant.
+"Qty:",Cant:
+"Quantity was recalculated from %d to %d",Cantitatea a fost recalculată de la %d la %d
+"Quote Lifetime (days)",Valabilitate estimare (zile)
+"Quote item does not exist.",Articolul de estimat nu există.
+"Quote item is not found.",Articolul de estimat nu e găsit.
+"Recently added item(s)",Produs(e) recent adăugat(e)
+"Register",Înregistrați-vă
+"Register and save time!",Înregistrați-vă și economisiți timp!
+"Register to Create an Account",Înregistrați-vă și Creați-vă un cont
+"Register with us for future convenience:",Înregistrați-vă pentru comfort ulterior:
+"Remove Item",Eliminare Articol
+"Remove This Item",Ștergere Articol Curent
+"Remove coupon code from shopping cart",Eliminare cod cupon din coș cumpărături
+"Remove item",Eliminare Articol
+"Remove product from shopping cart",Eliminare produs din coș cumpărături
+"Remove product(s) from shopping cart",Eliminare produs(e) din coș cumpărături
+"Require Customer To Be Logged In To Checkout",Solicitare Autentificare Client pentru Finalizare Comandă
+"Retrieve information about shopping cart",Recuperare informații despre coș cumpărături
+"Review Order",Detalii Comandă
+"Review Order - %s",Detalii Comandă - %s
+"Sales",Vânzări
+"Save Condition",Salvare Condiție
+"Save in address book",Salvare în agendă
+"See price before order confirmation.",Vizualizare preț înainte de confirmarea comenzii.
+"Select Address",Selectare Adresă
+"Select Addresses",Selectare Adrese
+"Select Shipping Method",Selectare Metodă Expediere
+"Select State/Province...",Selectare Județ...
+"Select a billing address from your address book or enter a new address.",Selectați o adresă de facturare din agendă sau introduceți una nouă.
+"Select a shipping address from your address book or enter a new address.",Selectați o adresă de expediere din agendă sau introduceți una nouă.
+"Send Payment Failed Email Copy Method",Metodă Trimitere Copie E-mail Plată Eșuată
+"Send Payment Failed Email Copy To",Trimitere Copie E-mail Plată Eșuată Către
+"Send To",Trimite Către
+"Separate by "","".","Separat de "",""."
+"Set customer for shopping cart",Setare client pentru coș cumpărături
+"Set customer's addresses in shopping cart",Setare adrese client în coș cumpărături
+"Set payment method",Setare metodă plată
+"Set shipping method",Setare metodă expediere
+"Ship to Multiple Addresses",Expediere la adrese multiple
+"Ship to different address",Expediere la o adresă diferită
+"Ship to this address",Expediere la această adresă
+"Shipping Address",Adresă de Expediere
+"Shipping Information",Informații Expediere
+"Shipping Method",Metodă Expediere
+"Shipping Methods",Metode Expediere
+"Shipping To",Expediere către
+"Shipping information",Informații Expediere
+"Shipping method has not been selected yet",Metoda de expediere nu a fost aleasă încă
+"Shipping methods in shopping cart",Metode de expediere în coș cumpărături
+"Shipping selection is not applicable.",Selecția de expediere nu e aplicabilă.
+"Shopping Cart",Coș Cumpărături
+"Shopping Cart Form Before",Formular Înainte Coș Cumpărături
+"Shopping Cart Sidebar",Bară Laterală Coș Cumpărături
+"Shopping Cart Sidebar Extra Actions",Acțiuni Suplimentare Bară Laterală Coș Cumpărături
+"Shopping Cart is Empty",Coșul de Cumpărături este Gol
+Shopping Cart Items After,Articole Coș Cumpărături După
+Shopping Cart Items Before,Articole Coș Cumpărături Înainte
+"Shopping cart ability to set coupon code",Abilitate setare cod cupon coș cumpărături
+"Show Content as",Arată Conținutul ca
+"Some of the requested products are not available in the desired quantity.",Unele dintre produsele solicitate nu sunt disponibile în cantitatea dorită.
+"Some of the requested products are unavailable.",Unele dintre produsele solicitate sunt indisponibile.
+"Some products quantities were recalculated because of quantity increment mismatch",Unele cantități de produse au fost recalculate datorită nepotrivirii pasului de cantitate
+"Sorry, guest checkout is not enabled. Please try again or contact store owner.","Ne pare rău, finalizarea comenzii pentru vizitatori nu e activată. Încercați din nou sau contactați proprietarul magazinului."
+"Sorry, no quotes are available for this order at this time.","Ne pare rău, nu putem face o estimare de cost în acest moment."
+"State/Province",Județ
+"Status","Status"
+"Store View",Vitrină
+"Street Address",Adresa Stradală
+"Street Address %s",Adresa Stradală %s
+"Submitting order information...",Se trimit informațiile de comandă...
+"Subtotal","Subtotal"
+"Subtotal must exceed minimum order amount",Subtotalul trebuie să depășească suma minimă de comandă
+"Telephone",Telefon
+"Terms and Conditions",Termeni și Condiții
+"Terms and Conditions Information",Informații Termeni și Condiții
+"Terms and conditions",Termeni și Condiții
+"Text","Text"
+"Thank you for your purchase!",Vă mulțumim pentru achiziție!
+"The condition has been deleted",Condiția a fost ștearsă
+"The condition has been saved.",Condiția a fost salvată.
+"The onepage checkout is disabled.",Finalizarea comenzii tip o pagină e dezactivată.
+"The product could not be found.",Produsul nu a putut fi găsit.
+"The product does not exist.",Produsul nu există.
+"There are <a href=""%s"">%s items</a> in your cart.",Aveți <a href="%s">%s articole</a> în coș.
+"There is <a href=""%s"">1 item</a> in your cart.",Aveți <a href="%s">1 articol</a> în coș.
+"There is already a customer registered using this email address. Please login using this email address or enter a different email address to register your account.",Există deja un client înregistrat cu această adresă de e-mail. Logați-vă folosind această adresă sau introduceți o adresă e-mail diferită pentru a vă înregistra contul.
+"There was an error processing your order. Please contact us or try again later.",A existat o eroare la procesarea comenzii dvs. Vă rugăm să ne contactați sau să încercați din nou mai târziu.
+"This condition no longer exists.",Această condiție nu mai există.
+"Total","Total"
+"Total for this address",Total pentru acestă adresă
+"Unable to set Payment Method.",Nu se poate seta Metoda de Plată
+"Unit Price",Preț Unitar
+"Update Cart",Actualizare Coș
+"Update Qty &amp; Addresses",Actualizare Cantitate &amp; Adrese
+"Update Shopping Cart",Actualizare Coș Cumpărături
+"Update Total",Actualizare Total
+"Update product quantities in shopping cart",Actualizare cantități produse în coș
+"Update product(s) quantities in shopping cart",Actualizare cantități produs(e) în coș
+"Use Billing Address",Utilizare Adresa de Facturare
+"VAT Number",Număr TVA
+View Shopping Cart,Vizualizare Coș Cumpărături
+"We are processing your order and you will soon receive an email with details of the order. Once the order has shipped you will receive another email with a link to track its progress.","Comanda este procesată și veți primi un e-mail cu detaliile acesteia. De îndată ce va fi expediată, vă vom trimite un e-mail cu legătura de urmărire a comenzii."
+What&#39;s this?,Ce este asta?
+"What's this?",Ce e asta?
+"You have no items in your shopping cart.",Nu aveți nici un produs în coș.
+"You will receive an order confirmation email with details of your order and a link to track its progress.",Veți primi un e-mail de confirmare a comenzii cu detalii despre comanda dvs. și o legătură să îi urmăriți progresul.
+"Your Checkout Progress",Stadiu Finalizare Comandă
+"Your billing agreement # is: %s.",Nr. acordului dvs. de facturare este: %s.
+"Your order # is: %s.",Nr. comenzii dvs. este: %s.
+"Your order cannot be completed at this time as there is no payment methods available for it.",Comanda dvs. nu poate fi finalizată momentan deoarece nu există nicio metodă de plată disponibilă pentru ea.
+"Your order cannot be completed at this time as there is no shipping methods available for it. Please make necessary changes in your shipping address.",Comanda dvs. nu poate fi finalizată momentan deoarece nu există nicio metodă de expediere disponibilă pentru ea.
+Your order has been received,Comanda dvs a fost recepționată
+"Your order has been received.",Comanda dvs. a fost primită.
+"Your order number is ","Nr. comenzii dvs. este "
+"Your recurring payment profiles:",Profilurile dvs. recurente de plată
+"Zip/Postal Code",Cod Poștal
