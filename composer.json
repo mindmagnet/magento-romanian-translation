@@ -1,0 +1,10 @@
+{
+	"name":"mindmagnet/romanian-translation",
+	"type":"magento-module",
+	"license":"OSL-3.0",
+	"homepage":"https://github.com/mindmagnet/magento-romanian-translation",
+	"description":"Magento Romanian Translation",
+	"suggest": {
+		"magento-hackathon/magento-composer-installer": "Allows to manage this package as a dependency"
+	}
+}
