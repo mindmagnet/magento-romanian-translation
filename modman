@@ -1,10 +1,8 @@
-translate/adminhtml app/design/adminhtml/default/default/locale/ro_RO/
+app/design/adminhtml/default/default/locale/ro_RO/* app/design/adminhtml/default/default/locale/ro_RO/
 
-translate/frontend/default/blank app/design/frontend/default/blank/locale/ro_RO/
-translate/frontend/default/default app/design/frontend/default/default/locale/ro_RO/
-translate/frontend/default/iphone app/design/frontend/default/iphone/locale/ro_RO/
-translate/frontend/default/modern app/design/frontend/default/modern/locale/ro_RO/
-
-translate/frontend/rwd/default app/design/frontend/rwd/default/locale/ro_RO/
-
-translate/locale app/locale/ro_RO/
+app/design/frontend/default/blank/locale/ro_RO/*    app/design/frontend/default/blank/locale/ro_RO/
+app/design/frontend/default/default/locale/ro_RO/*  app/design/frontend/default/default/locale/ro_RO/
+app/design/frontend/default/iphone/locale/ro_RO/*   app/design/frontend/default/iphone/locale/ro_RO/
+app/design/frontend/default/modern/locale/ro_RO/*   app/design/frontend/default/modern/locale/ro_RO/
+app/design/frontend/rwd/default/locale/ro_RO/*      app/design/frontend/rwd/default/locale/ro_RO/
+app/locale/ro_RO/*                                  app/locale/ro_RO/
